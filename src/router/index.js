@@ -1,3 +1,5 @@
+// 多次点击路由报错问题（原因：版本）
+// 可用 npm i vue-router@3.0 -S 解决
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
